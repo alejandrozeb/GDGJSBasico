@@ -12,5 +12,7 @@
         Representar valores dentro de una expresión matemática.
         Mostrar valores por pantalla.
     Todas las variables deben ser de un tipo de datos, ya sea un dato de tipo primitivo, como un número o texto, o un dato abstracto, como un objeto que se ha creado.
+    ---------Jerarquia de operadores--------------
+    () -> ^ -> raiz -> modulo -> multiplicacion -> division -> suma -> resta
     
 */
